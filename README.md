@@ -18,5 +18,3 @@ Then you can access the app from the browser with this url: `http://127.0.0.1:30
 ## Dockerhub image
 
 This repository is proven by running build in Dockerhub, you can see the result [here](https://hub.docker.com/r/namikazebadri/vue-app).
-This repository is proven by running build in Dockerhub, you can see the result [here](https://hub.docker.com/r/namikazebadri/vue-app).
-This repository is proven by running build in Dockerhub, you can see the result [here](https://hub.docker.com/r/namikazebadri/vue-app).
